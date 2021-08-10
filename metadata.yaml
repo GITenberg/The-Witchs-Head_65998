@@ -1,0 +1,38 @@
+_repo: The-Witchs-Head_65998
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kerr, Charles H. M.
+    birthdate: 1858
+    deathdate: 1907
+    gutenberg_agent_id: '53556'
+    url: http://www.gutenberg.org/2009/agents/53556
+    wikipedia: https://en.wikipedia.org/wiki/Charles_H._M._Kerr
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2021-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Witch’s Head
+url: http://www.gutenberg.org/ebooks/65998
